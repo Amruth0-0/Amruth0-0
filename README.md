@@ -1,12 +1,12 @@
+<p align="center">
+<img src="https://github.com/user-attachments/assets/83b046eb-d73b-4df1-9ec3-0786c89088dd" width="360" />
+ <h1><b> Hi, I’m Amruth B 👋</b></h1>
+ 🖥️Software developer | Tech Enthusiast | Not a 10x dev, but consistent </p>
 
- ![Coding Artificial Intelligence GIF by Pudgy Penguins](https://github.com/user-attachments/assets/83b046eb-d73b-4df1-9ec3-0786c89088dd)
-
-<p align="center"> 
- <h1><b> Hi there, I'm Amruth B 👋 </b></h1>
- Software Developer | Tech Enthusiast  | Not a 10x dev but improving daily </p>
 <br>
 
-## Teck Stack
+---
+## 🛠️ Tools & Technologies
 #### Languages 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
@@ -14,8 +14,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
 </div>
-
-
 
 #### Web Dev
 <div align="left">
@@ -39,15 +37,10 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="vscode logo"  />
 </div>
 
-
-<br>
 <br>
 
-
-
-
-## 🌱 Currently Learning
-
+---
+## 🌱 Currently Learning:
 - Building backend systems while understanding request flow, middleware, and server-side logic  
 - Designing databases and data models for long-term, reliable data handling.  
 - Writing non-blocking code using asynchronous patterns and background job scheduling  
@@ -55,15 +48,23 @@
 - Exploring cloud fundamentals, environment configuration, and application deployment  
 
 ---
+<br>
+
+## 📫 Contact
+**LinkedIn:** https://www.linkedin.com/in/--amruthb/  
+**Email:** amruth.works24@gmail.com 
+
+<br>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amruth0-0&show_icons=true&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amruth0-0&layout=compact&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amruth0-0&show_icons=true&count_private=true&theme=dracula&hide_border=false&cache_seconds=1800" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amruth0-0&layout=compact&count_private=true&theme=dracula&hide_border=false&cache_seconds=1800" height="150" />
 </div>
 
 ---
 
+<br>
 
 ✨ *Still learning, still breaking things, still fixing them — one commit at a time.*
