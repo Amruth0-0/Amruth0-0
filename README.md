@@ -1,16 +1,9 @@
-# Hi there, I'm Amruth B 👋  
 
+ ![Coding Artificial Intelligence GIF by Pudgy Penguins](https://github.com/user-attachments/assets/83b046eb-d73b-4df1-9ec3-0786c89088dd)
 
-
- <div align="center">
-  <img height="209" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25hZHczc2t2cXc3MTRpdnN5M2Q4dmFqZTRwZmF6bnNpb29uems2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif"  />
-</div> 
-
-
-<p align="center"> Software Developer | Tech Enthusiast  | Not a 10x dev but improving daily </p>
-
-<br>
-<br>
+<p align="center"> 
+ <h1><b> Hi there, I'm Amruth B 👋 </b></h1>
+ Software Developer | Tech Enthusiast  | Not a 10x dev but improving daily </p>
 <br>
 
 ## Teck Stack
