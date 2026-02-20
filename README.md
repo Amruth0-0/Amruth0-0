@@ -1,70 +1,57 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/83b046eb-d73b-4df1-9ec3-0786c89088dd" width="360" />
- <h1><b> Hi, I’m Amruth B 👋</b></h1>
- 🖥️Software developer | Tech Enthusiast | Not a 10x dev, but consistent </p>
-
-<br>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHl0M3IzZzBveGY4MW56MXQ0MmpmdnQ5djIxOWJiemVxY3p5ZW50MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="400"/>
+<h1 align="center"><b> Hi, I’m Amruth B 👋</b></h1>
+<p align="center">
+   <b> 🖥️Tech Enthusiast | Exploring AWS & Cloud Technologies </b><br>
+  <i>Not a 10x dev, but consistent — building, breaking, and fixing one commit at a time.</i>
+</p>
+ 
+<p align="center">
+  <a href="https://www.linkedin.com/in/--amruthb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:amruth.works24@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
+
 ## 🛠️ Tools & Technologies
-#### Languages 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
-</div>
 
-#### Web Dev
-<div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="40" alt="css logo"  />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="express logo"  />
-</div>
+#### 💻 Languages
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-#### Database Management
-<div align="left">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
-</div>
+#### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-#### Tools & Version Control
-<div align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="vscode logo"  />
-</div>
+#### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<br>
+#### 🔧 Tools & Cloud(Exploring)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Cloud_Fundamentals](https://img.shields.io/badge/Cloud_Fundamentals-0052CC?style=for-the-badge&logo=icloud&logoColor=white)
 
 ---
-## 🌱 Currently Learning:
-- Building backend systems while understanding request flow, middleware, and server-side logic  
-- Designing databases and data models for long-term, reliable data handling.  
-- Writing non-blocking code using asynchronous patterns and background job scheduling  
-- Learning authentication, error handling, and API security as real-world backend concerns  
-- Exploring cloud fundamentals, environment configuration, and application deployment  
+
+## 🌱 Current Focus
+- **AWS & Cloud:** EC2, S3, IAM, deployment basics, cloud architecture fundamentals
+- **DSA**: Algorithms, data structures, and logical problem solving
+- **Backend**: REST APIs, authentication, server-side architecture
+- **Tools**: Modern frameworks and developer tooling
 
 ---
-<br>
-
-## 📫 Contact
-**LinkedIn:** https://www.linkedin.com/in/--amruthb/  
-**Email:** amruth.works24@gmail.com 
-
-<br>
-
-## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amruth0-0&show_icons=true&count_private=true&theme=dracula&hide_border=false&cache_seconds=1800" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amruth0-0&layout=compact&count_private=true&theme=dracula&hide_border=false&cache_seconds=1800" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Amruth0-0&theme=midnight-purple" alt="GitHub Streak" />
 </div>
 
 ---
-
-<br>
-
-✨ *Still learning, still breaking things, still fixing them — one commit at a time.*
+<h4 align="center">
+  <b> 🚀 Focused on growth, one commit at a time. </b>
+</h4>
