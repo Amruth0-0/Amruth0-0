@@ -69,7 +69,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=Amruth0-0&rank_icon=github&show_icons=true&include_all_commits=true&theme=catppuccin_mocha" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Amruth0-0&theme=tokyonight" />
 <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Amruth0-0&layout=compact&langs_count=5&theme=tokyonight" alt="Top Languages" />
 </p>
 
